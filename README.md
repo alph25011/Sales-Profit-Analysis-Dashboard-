@@ -25,9 +25,9 @@ trends, identify high-performing categories, and evaluate profitability.
 
 ## Data Preparation
 
--   Cleaned and formatted raw data\
--   Handled missing values\
--   Standardized column names\
+-   Cleaned and formatted raw data
+-   Handled missing values
+-   Standardized column names
 -   Ensured correct data types
 
 ------------------------------------------------------------------------
@@ -41,10 +41,10 @@ trends, identify high-performing categories, and evaluate profitability.
 
 ## DAX Measures
 
--   Total Sales\
--   Total Profit\
--   Total Quantity\
--   Profit Margin\
+-   Total Sales
+-   Total Profit
+-   Total Quantity
+-   Profit Margin
 -   Sales Growth
 
 ------------------------------------------------------------------------
@@ -68,16 +68,16 @@ trends, identify high-performing categories, and evaluate profitability.
 
 ## Key Insights
 
--   Sales peak in certain months\
--   Electronics leads revenue\
+-   Sales peak in certain months
+-   Electronics leads revenue
 -   Some categories have low margins
 
 ------------------------------------------------------------------------
 
 ## Tools Used
 
--   Power BI\
--   Power Query\
+-   Power BI
+-   Power Query
 -   DAX
 
 ------------------------------------------------------------------------
