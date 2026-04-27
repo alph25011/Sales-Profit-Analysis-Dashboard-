@@ -1,32 +1,87 @@
-📊 Sales & Profit Dashboard — Power BI
-A Power BI dashboard to analyze sales performance, profit trends, and category-wise distribution.
+# 📊 Sales & Profit Analysis Dashboard (Power BI)
 
-📷 Dashboard Preview
-<img width="1417" height="802" alt="Dashboard" src="https://github.com/user-attachments/assets/cbc741c3-00a5-49ac-aba5-caa235ef7c21" />
+> Interactive business intelligence dashboard built using Power BI to
+> analyze sales performance, profit trends, and category-level insights.
 
+------------------------------------------------------------------------
 
-🔧 Tools Used
+## Overview
 
-Power BI
-Power Query
-DAX
+This project presents a comprehensive sales and profit analysis
+dashboard developed using Power BI. It enables users to explore sales
+trends, identify high-performing categories, and evaluate profitability.
 
+------------------------------------------------------------------------
 
-📈 Key Insights
+## Project Structure
 
-Sales peak during March and November
-Electronics contributes the highest revenue
-Some sub-categories show high sales but lower profit margins
+    sales-profit-analysis-dashboard/
+    ├── data/
+    ├── images/
+    ├── dashboard/
+    └── README.md
 
+------------------------------------------------------------------------
 
-📂 Files
+## Data Preparation
 
-Sales_Dashboard.pbix — Power BI report file
-dashboard.png — Dashboard preview
+-   Cleaned and formatted raw data\
+-   Handled missing values\
+-   Standardized column names\
+-   Ensured correct data types
 
+------------------------------------------------------------------------
 
-🚀 Getting Started
+## Data Modeling
 
-Download and install Power BI Desktop
-Open Sales_Dashboard.pbix
-Refresh the data and explore the visuals
+-   Created relationships between Orders and Details tables\
+-   Enabled cross-filtering
+
+------------------------------------------------------------------------
+
+## DAX Measures
+
+-   Total Sales\
+-   Total Profit\
+-   Total Quantity\
+-   Profit Margin\
+-   Sales Growth
+
+------------------------------------------------------------------------
+
+## Analysis & Visualizations
+
+  Visualization    Type           Purpose
+  ---------------- -------------- -------------------
+  KPI Cards        Card Visuals   Key metrics
+  Sales Trend      Line Chart     Trend analysis
+  Category Sales   Chart          Category insights
+  Sub-Category     Bar Chart      Top products
+
+------------------------------------------------------------------------
+
+## Dashboard Preview
+
+![Dashboard](<img width="1417" height="802" alt="Dashboard" src="https://github.com/user-attachments/assets/d90809b1-0dc7-49ac-b2f2-f406ce2c0938" />)
+
+------------------------------------------------------------------------
+
+## Key Insights
+
+-   Sales peak in certain months\
+-   Electronics leads revenue\
+-   Some categories have low margins
+
+------------------------------------------------------------------------
+
+## Tools Used
+
+-   Power BI\
+-   Power Query\
+-   DAX
+
+------------------------------------------------------------------------
+
+## Author
+
+alph25011
