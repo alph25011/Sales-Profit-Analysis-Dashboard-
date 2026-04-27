@@ -62,7 +62,7 @@ trends, identify high-performing categories, and evaluate profitability.
 
 ## Dashboard Preview
 
-![Dashboard](<img width="1417" height="802" alt="Dashboard" src="https://github.com/user-attachments/assets/d90809b1-0dc7-49ac-b2f2-f406ce2c0938" />)
+<img width="1417" height="802" alt="Dashboard" src="https://github.com/user-attachments/assets/d90809b1-0dc7-49ac-b2f2-f406ce2c0938" />
 
 ------------------------------------------------------------------------
 
